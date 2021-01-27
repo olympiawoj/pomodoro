@@ -1,2 +1,12 @@
-# pomodoro
-Pomodoro is a productivity countdown timer that allows users to break down tasks into 25 minute chunks built in React
+## Pomodoro Timer
+
+A Pomodoro timer that can teach us about rendering in React.
+
+[![](https://scotch-res.cloudinary.com/video/upload/vs_50,dl_200,e_loop/v1592352061/01_-_pomodoro_uwan1y.gif)](https://learn.chrisoncode.io/courses/10-react-apps-series-a/348620-01-pomodoro/992082-00-pomodoro-preview)
+
+### React skills used in this app
+- Creating timers
+- React state w/ useState()
+- React effects w/ useEffect()
+- React refs w/ useRef()
+- Parent and child components
